@@ -10,7 +10,6 @@
   <br/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div>
-/div>
 
 <!--
 **seo-min-jeong/seo-min-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
