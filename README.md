@@ -1,5 +1,5 @@
 <div align="center" style="text-align:center">
- <h1>🛠️ Stack 🛠️</h1>
+ <h3>🛠️ Stack 🛠️</h3>
  <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
