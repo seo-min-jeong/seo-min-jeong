@@ -1,4 +1,5 @@
 <div align="center" style="text-align:center">
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
  <h3>🛠️ Stack 🛠️</h3>
  <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -13,7 +14,7 @@
  </div>
 
 <br/>
-[![seo-min-jeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seo-min-jeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seo-min-jeong)
+
 <!--
 **seo-min-jeong/seo-min-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
