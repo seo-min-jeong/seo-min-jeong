@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=130&section=header&text=seo-min-jeong&fontSize=50"/>
 <br/>
  <hr/>
+ <br/>
  <h3>🛠️ Stack 🛠️</h3>
  <br/>
  <div>
