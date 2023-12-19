@@ -1,5 +1,5 @@
 <div align="center" style="text-align:center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=seo-min-jeong&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=seo-min-jeong&fontSize=50"/>
  <h3>🛠️ Stack 🛠️</h3>
  <div>
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
