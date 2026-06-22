@@ -1,4 +1,4 @@
-<div align="center" style="text-align:center">
+<!-- <div align="center" style="text-align:center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=130&section=header&text=seo-min-jeong&fontSize=50"/>
 <br/>
  <hr/>
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
